@@ -26,7 +26,7 @@ package webworks.config
 			"configXMLDoc" 				: null, // XML Document
 			
 			"backButtonBehavior"		: "back", // String
-			"customHeaders"				: {Date: "Dec 23 2010, 13:30 GTM-5"}, // Hashtable
+			"customHeaders"				: {}, // Hashtable
 			"version"					: "1.0.0", // String
 			
 			"author"					: "", // String
